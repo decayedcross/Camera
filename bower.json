@@ -6,7 +6,7 @@
     "decayedcross <decayedcross@gmail.com>"
   ],
   "description": "camera slide show",
-  "main": "scripts/camera.js", "css/camera.css",
+  "main": "camera.min.js",
   "keywords": [
     "camera",
     "slideshow"
